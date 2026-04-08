@@ -9,7 +9,7 @@ This project transforms raw election data into meaningful visual insights using 
 ## 📌 Project Objectives
 
 - Provide a high-level summary of election results via an overview dashboard
-- Analyze historical election trends across 2009, 2014, and 2019
+- Analyze historical election trends across 2009, 2014,and 2019
 - Simulate a real-time election results dashboard with dynamic year filtering
 - Identify leading parties and winning candidates based on constituencies won
 - Visualize seat distribution and vote share across parties
